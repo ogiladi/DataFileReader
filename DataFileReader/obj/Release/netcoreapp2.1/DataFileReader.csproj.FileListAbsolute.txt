@@ -1,0 +1,11 @@
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/bin/Release/netcoreapp2.1/DataFileReader.deps.json
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/bin/Release/netcoreapp2.1/DataFileReader.runtimeconfig.json
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/bin/Release/netcoreapp2.1/DataFileReader.runtimeconfig.dev.json
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/bin/Release/netcoreapp2.1/DataFileReader.dll
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/bin/Release/netcoreapp2.1/DataFileReader.pdb
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/obj/Release/netcoreapp2.1/DataFileReader.csproj.CoreCompileInputs.cache
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/obj/Release/netcoreapp2.1/DataFileReader.AssemblyInfoInputs.cache
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/obj/Release/netcoreapp2.1/DataFileReader.AssemblyInfo.cs
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/obj/Release/netcoreapp2.1/DataFileReader.dll
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/obj/Release/netcoreapp2.1/DataFileReader.pdb
+/Users/ohodigiladi/Documents/ProgrammingProjects/DotNetProjects/DataFileReader/DataFileReader/obj/Release/netcoreapp2.1/DataFileReader.csprojAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5C48050F-F0E6-4177-9538-C2CCED8E9F5F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataFileReader/FileReader.cs">
+    <Files>
+      <File FileName="DataFileReader/FileReader.cs" Line="110" Column="64" />
+      <File FileName="DataFileReader/Program.cs" Line="30" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataFileReader" expanded="True">
+            <Node name="DataFileReader" expanded="True">
+              <Node name="FileReader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.DataFileReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
